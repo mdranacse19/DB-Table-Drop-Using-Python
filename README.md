@@ -1,7 +1,8 @@
 # DB-Table-Drop-Using-Python
 
-"""
-install pip:
-"""
+
+##install pip:
 
 pipenv install
+
+python main.py runserver
